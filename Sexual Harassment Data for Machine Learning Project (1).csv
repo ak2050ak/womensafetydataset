@@ -1,105 +1,141 @@
 Area,Zone,Time,People.Frequency,Is.Police_Station,Is.Bar,Tier,Residence.Level,Class
-Ramapuram,Aanandam Nagar,Morning,Medium,Yes,No,Middle,Medium,Safe
-Ramapuram,Aanandam Nagar,Afternoon,High,Yes,No,Middle,Medium,Safe
-Ramapuram,Aanandam Nagar,Evening,Medium,Yes,No,Middle,Medium,Safe
-Ramapuram,Aanandam Nagar,Night,Low,Yes,No,Middle,Medium,Safe
-Ramapuram,Ambal Nagar,Morning,Medium,No,No,Outer,Medium,Safe
-Ramapuram,Ambal Nagar,Afternoon,Low,No,No,Outer,Medium,Safe
-Ramapuram,Ambal Nagar,Evening,Medium,No,No,Outer,Medium,Unsafe
-Ramapuram,Ambal Nagar,Night,Low,No,No,Outer,Medium,Unsafe
-Ramapuram,Amman Nagar,Morning,Medium,No,No,Outer,Medium,Safe
-Ramapuram,Amman Nagar,Afternoon,Low,No,No,Outer,Medium,Safe
-Ramapuram,Amman Nagar,Evening,Medium,No,No,Outer,Medium,Unsafe
-Ramapuram,Amman Nagar,Night,Low,No,No,Outer,Medium,Unsafe
-Adyar,Baktavatsalm Nagar,Morning,Medium,No,No,Outer,Low,Safe
-Adyar,Baktavatsalm Nagar,Afternoon,Low,No,No,Outer,Low,Safe
-Adyar,Baktavatsalm Nagar,Evening,Medium,No,No,Outer,Low,Unsafe
-Adyar,Baktavatsalm Nagar,Night,Low,No,No,Outer,Low,Unsafe
-Ramapuram,Chidambaram Nagar,Morning,Medium,No,No,Middle,High,Safe
-Ramapuram,Chidambaram Nagar,Afternoon,Low,No,No,Middle,High,Safe
-Ramapuram,Chidambaram Nagar,Evening,Medium,No,No,Middle,High,Safe
-Ramapuram,Chidambaram Nagar,Night,Low,No,No,Middle,High,Unsafe
-Ramapuram,Easwaran Nagar,Morning,Medium,Yes,No,Middle,Medium,Safe
-Ramapuram,Easwaran Nagar,Afternoon,Medium,Yes,No,Middle,Medium,Safe
-Ramapuram,Easwaran Nagar,Evening,Medium,Yes,No,Middle,Medium,Safe
-Ramapuram,Easwaran Nagar,Night,Low,Yes,No,Middle,Medium,Safe
-Ramapuram,Gokulam Colony,Morning,Medium,No,Yes,Outer,High,Safe
-Ramapuram,Gokulam Colony,Afternoon,High,No,Yes,Outer,High,Safe
-Ramapuram,Gokulam Colony,Evening,Medium,No,Yes,Outer,High,Unsafe
-Ramapuram,Gokulam Colony,Night,High,No,Yes,Outer,High,Unsafe
-West Mambalam,Kasi Viswanathar Colony,Morning,Medium,No,No,Middle,Medium,Safe
-West Mambalam,Kasi Viswanathar Colony,Afternoon,Medium,No,No,Middle,Medium,Safe
-West Mambalam,Kasi Viswanathar Colony,Evening,Medium,No,No,Middle,Medium,Safe
-West Mambalam,Kasi Viswanathar Colony,Night,Low,No,No,Middle,Medium,Unsafe
-Ramapuram,Moogambigai Nagar,Morning,Low,No,No,Outer,Low,Unsafe
-Ramapuram,Moogambigai Nagar,Afternoon,Low,No,No,Outer,Low,Safe
-Ramapuram,Moogambigai Nagar,Evening,Low,No,No,Outer,Low,Unsafe
-Ramapuram,Moogambigai Nagar,Night,Low,No,No,Outer,Low,Unsafe
-West Mambalam,Moovendar Colony,Morning,Medium,Yes,No,Outer,Medium,Safe
-West Mambalam,Moovendar Colony,Afternoon,Low,Yes,No,Outer,Medium,Safe
-West Mambalam,Moovendar Colony,Evening,Medium,Yes,No,Outer,Medium,Safe
-West Mambalam,Moovendar Colony,Night,Low,Yes,No,Outer,Medium,Unsafe
-Ramapuram,Mullai Nagar,Morning,High,Yes,No,Inner,High,Safe
-Ramapuram,Mullai Nagar,Afternoon,Medium,Yes,No,Inner,High,Safe
-Ramapuram,Mullai Nagar,Evening,High,Yes,No,Inner,High,Safe
-Ramapuram,Mullai Nagar,Night,High,Yes,No,Inner,High,Safe
-West Mambalam,Pannerselvam Nagar,Morning,Medium,No,Yes,Outer,Low,Unsafe
-West Mambalam,Pannerselvam Nagar,Afternoon,Low,No,Yes,Outer,Low,Safe
-West Mambalam,Pannerselvam Nagar,Evening,Low,No,Yes,Outer,Low,Unsafe
-West Mambalam,Pannerselvam Nagar,Night,Low,No,Yes,Outer,Low,Unsafe
-West Mambalam,Postal Colony,Morning,High,Yes,Yes,Middle,High,Safe
-West Mambalam,Postal Colony,Afternoon,High,Yes,Yes,Middle,High,Safe
-West Mambalam,Postal Colony,Evening,High,Yes,Yes,Middle,High,Safe
-West Mambalam,Postal Colony,Night,Low,Yes,Yes,Middle,High,Safe
-West Mambalam,RamaKrishnapuram,Morning,High,Yes,Yes,Inner,High,Safe
-West Mambalam,RamaKrishnapuram,Afternoon,High,Yes,Yes,Inner,High,Safe
-West Mambalam,RamaKrishnapuram,Evening,High,Yes,Yes,Inner,High,Safe
-West Mambalam,RamaKrishnapuram,Night,Medium,Yes,Yes,Inner,High,Safe
-Ramapuram,Royala Nagar,Morning,Medium,No,No,Inner,High,Safe
-Ramapuram,Royala Nagar,Afternoon,Medium,No,No,Inner,High,Safe
-Ramapuram,Royala Nagar,Evening,Medium,No,No,Inner,High,Safe
-Ramapuram,Royala Nagar,Night,Low,No,No,Inner,High,Unsafe
-Ramapuram,Sakthi Nagar,Morning,Low,Yes,Yes,Outer,Medium,Safe
-Ramapuram,Sakthi Nagar,Afternoon,High,Yes,Yes,Outer,Medium,Safe
-Ramapuram,Sakthi Nagar,Evening,High,Yes,Yes,Outer,Medium,Safe
-Ramapuram,Sakthi Nagar,Night,Medium,Yes,Yes,Outer,Medium,Unsafe
-Adyar,Shastri Nagar,Morning,Medium,Yes,Yes,Inner,High,Safe
-Adyar,Shastri Nagar,Afternoon,Medium,Yes,Yes,Inner,High,Safe
-Adyar,Shastri Nagar,Evening,High,Yes,Yes,Inner,High,Safe
-Adyar,Shastri Nagar,Night,Medium,Yes,Yes,Inner,High,Safe
-Adyar,South Kesavaperumalpuram,Morning,Low,No,No,Outer,Low,Unsafe
-Adyar,South Kesavaperumalpuram,Afternoon,Low,No,No,Outer,Low,Safe
-Adyar,South Kesavaperumalpuram,Evening,Low,No,No,Outer,Low,Safe
-Adyar,South Kesavaperumalpuram,Night,Low,No,No,Outer,Low,Unsafe
-Adyar,Subramaniam Nagar,Morning,Medium,Yes,Yes,Inner,Medium,Safe
-Adyar,Subramaniam Nagar,Afternoon,Low,Yes,Yes,Inner,Medium,Unsafe
-Adyar,Subramaniam Nagar,Evening,High,Yes,Yes,Inner,Medium,Safe
-Adyar,Subramaniam Nagar,Night,Medium,Yes,Yes,Inner,Medium,Safe
-Ramapuram,Suresh Nagar,Morning,Low,No,No,Outer,Medium,Unsafe
-Ramapuram,Suresh Nagar,Afternoon,Low,No,No,Outer,Medium,Safe
-Ramapuram,Suresh Nagar,Evening,Low,No,No,Outer,Medium,Safe
-Ramapuram,Suresh Nagar,Night,Low,No,No,Outer,Medium,Unsafe
-Ramapuram,Tamil Nagar,Morning,Medium,No,No,Outer,Low,Unsafe
-Ramapuram,Tamil Nagar,Afternoon,Low,No,No,Outer,Low,Safe
-Ramapuram,Tamil Nagar,Evening,Medium,No,No,Outer,Low,Unsafe
-Ramapuram,Tamil Nagar,Night,Low,No,No,Outer,Low,Unsafe
-Adyar,Teachers Colony,Morning,Medium,Yes,Yes,Inner,High,Safe
-Adyar,Teachers Colony,Afternoon,Low,Yes,Yes,Inner,High,Safe
-Adyar,Teachers Colony,Evening,High,Yes,Yes,Inner,High,Safe
-Adyar,Teachers Colony,Night,Medium,Yes,Yes,Inner,High,Safe
-Ramapuram,Thiru Nagar,Morning,Medium,Yes,No,Inner,Low,Safe
-Ramapuram,Thiru Nagar,Afternoon,High,Yes,No,Inner,Low,Safe
-Ramapuram,Thiru Nagar,Evening,Medium,Yes,No,Inner,Low,Safe
-Ramapuram,Thiru Nagar,Night,Low,Yes,No,Inner,Low,Unsafe
-Adyar,Venkateshwar Nagar,Morning,Medium,No,No,Outer,Low,Unsafe
-Adyar,Venkateshwar Nagar,Afternoon,Low,No,No,Outer,Low,Safe
-Adyar,Venkateshwar Nagar,Evening,Medium,No,No,Outer,Low,Unsafe
-Adyar,Venkateshwar Nagar,Night,Low,No,No,Outer,Low,Unsafe
-Ramapuram,Venkateshwara Nagar,Morning,Medium,No,No,Inner,High,Safe
-Ramapuram,Venkateshwara Nagar,Afternoon,Medium,No,No,Inner,High,Safe
-Ramapuram,Venkateshwara Nagar,Evening,Medium,No,No,Inner,High,Safe
-Ramapuram,Venkateshwara Nagar,Night,Low,No,No,Inner,High,Unsafe
-West Mambalam,Vivekanandapuram,Morning,High,No,No,Inner,High,Safe
-West Mambalam,Vivekanandapuram,Afternoon,Medium,No,No,Inner,High,Safe
-West Mambalam,Vivekanandapuram,Evening,High,No,No,Inner,High,Safe
-West Mambalam,Vivekanandapuram,Night,Low,No,No,Inner,High,Unsafe
+Gandhi Chowk,City Center,Morning,High,Yes,No,Middle,High,Safe
+Gandhi Chowk,City Center,Afternoon,Medium,Yes,No,Middle,High,Safe
+Gandhi Chowk,City Center,Evening,High,Yes,Yes,Middle,High,Safe
+Gandhi Chowk,City Center,Night,Low,Yes,Yes,Middle,High,Moderate
+Gandhi Chowk,City Center,Late Night,Low,Yes,Yes,Middle,High,Unsafe
+BLDEA Road,Suburban,Morning,Medium,No,No,Outer,Medium,Safe
+BLDEA Road,Suburban,Afternoon,High,No,Yes,Outer,Medium,Safe
+BLDEA Road,Suburban,Evening,Medium,No,Yes,Outer,Medium,Safe
+BLDEA Road,Suburban,Night,Low,No,Yes,Outer,Medium,Moderate
+BLDEA Road,Suburban,Late Night,Low,No,Yes,Outer,Medium,Unsafe
+Shastri Nagar,Residential,Morning,Medium,Yes,No,Middle,High,Safe
+Shastri Nagar,Residential,Afternoon,Low,Yes,No,Middle,High,Safe
+Shastri Nagar,Residential,Evening,Low,Yes,No,Middle,High,Moderate
+Shastri Nagar,Residential,Night,Low,Yes,No,Middle,High,UnSafe
+Shastri Nagar,Residential,Night,Low,Yes,No,Middle,High,UnSafe
+Basava Circle,Commercial,Morning,High,No,Yes,Inner,Low,Safe
+Basava Circle,Commercial,Afternoon,High,No,Yes,Inner,Low,Safe
+Basava Circle,Commercial,Evening,High,No,Yes,Inner,Low,Safe
+Basava Circle,Commercial,Night,Medium,No,Yes,Inner,Low,Moderate
+Basava Circle,Commercial,Late Night,Medium,No,Yes,Inner,Low,UnSafe
+Market Yard,Industrial,Morning,Medium,Yes,No,Outer,Medium,Safe
+Market Yard,Industrial,Afternoon,Medium,Yes,No,Outer,Medium,Safe
+Market Yard,Industrial,Evening,Medium,Yes,Yes,Outer,Medium,Moderate
+Market Yard,Industrial,Night,Low,Yes,Yes,Outer,Medium,Unsafe
+Market Yard,Industrial,Late Night,Low,Yes,Yes,Outer,Medium,Unsafe
+Sainik School,Educational,Morning,High,Yes,No,Inner,High,Safe
+Sainik School,Educational,Afternoon,High,Yes,No,Inner,High,Safe
+Sainik School,Educational,Evening,Medium,Yes,No,Inner,High,Moderate
+Sainik School,Educational,Night,Low,Yes,No,Inner,High,UnSafe
+Sainik School,Educational,LateNight,Low,Yes,No,Inner,High,UnSafe
+Gol Gumbaz,Historical,Morning,High,No,No,Inner,High,Safe
+Gol Gumbaz,Historical,Afternoon,Medium,No,No,Inner,High,Safe
+Gol Gumbaz,Historical,Evening,Low,No,No,Inner,High,Moderate
+Gol Gumbaz,Historical,Night,Low,No,No,Inner,High,UnSafe
+Gol Gumbaz,Historical,LateNight,Low,No,No,Inner,High,UnSafe
+Old Bus Stand,Transit Hub,Morning,High,Yes,Yes,Middle,Medium,Safe
+Old Bus Stand,Transit Hub,Afternoon,High,Yes,Yes,Middle,Medium,Safe
+Old Bus Stand,Transit Hub,Evening,High,Yes,Yes,Middle,Medium,Moderate
+Old Bus Stand,Transit Hub,Night,Medium,Yes,Yes,Middle,Medium,UnSafe
+Old Bus Stand,Transit Hub,LateNight,Medium,Yes,Yes,Middle,Medium,UnSafe
+Jalnagar,Residential,Morning,Medium,No,No,Outer,Medium,Safe
+Jalnagar,Residential,Afternoon,Medium,No,No,Outer,Medium,Safe
+Jalnagar,Residential,Evening,Medium,No,No,Outer,Medium,Safe
+Jalnagar,Residential,Night,Low,No,No,Outer,Medium,UnSafe
+Jalnagar,Residential,LateNight,Low,No,No,Outer,Medium,UnSafe
+Vajarahanuman Nagar,Suburban,Morning,Medium,Yes,Yes,Middle,Medium,Safe
+Vajarahanuman Nagar,Suburban,Afternoon,Medium,Yes,Yes,Middle,Medium,Safe
+Vajarahanuman Nagar,Suburban,Evening,Low,Yes,Yes,Middle,Medium,Safe
+Vajarahanuman Nagar,Suburban,Night,Low,Yes,Yes,Middle,Medium,Moderate
+Vajarahanuman Nagar,Suburban,LateNight,Low,Yes,Yes,Middle,Medium,UnSafe
+Stadium Road,Commercial,Morning,High,Yes,Yes,Middle,Medium,Safe
+Stadium Road,Commercial,Afternoon,High,Yes,Yes,Middle,Medium,Safe
+Stadium Road,Commercial,Evening,Medium,Yes,Yes,Middle,Medium,Moderate
+Stadium Road,Commercial,Night,Low,Yes,Yes,Middle,Medium,UnSafe
+Stadium Road,Commercial,LateNight,Low,Yes,Yes,Middle,Medium,UnSafe
+Shapeti,Historical,Morning,Medium,No,No,Inner,High,Moderate
+Shapeti,Historical,Afternoon,Medium,No,No,Inner,High,Safe
+Shapeti,Historical,Evening,Low,No,No,Inner,High,Moderate
+Shapeti,Historical,Night,Low,No,No,Inner,High,UnSafe
+Shapeti,Historical,LateNight,Low,No,No,Inner,High,UnSafe
+Shikar Khana,Suburban,Morning,Medium,No,No,Outer,Medium,Moderate
+Shikar Khana,Suburban,Afternoon,Medium,No,No,Outer,Medium,Safe
+Shikar Khana,Suburban,Evening,Low,No,No,Outer,Medium,Moderate
+Shikar Khana,Suburban,Night,Low,No,No,Outer,Medium,UnSafe
+Shikar Khana,Suburban,LateNight,Low,No,No,Outer,Medium,UnSafe
+Upliburz Area,Residential,Morning,Medium,Yes,No,Middle,High,Safe
+Upliburz Area,Residential,Afternoon,Medium,Yes,No,Middle,High,Safe
+Upliburz Area,Residential,Evening,Low,Yes,No,Middle,High,Moderate
+Upliburz Area,Residential,Night,Low,Yes,No,Middle,High,UnSafe
+Upliburz Area,Residential,LateNight,Low,Yes,No,Middle,High,UnSafe
+Ring Road,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Ring Road,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Ring Road,Suburban,Evening,Low,No,Yes,Outer,Low,Moderate
+Ring Road,Suburban,Night,Low,No,Yes,Outer,Low,UnSafe
+Ring Road,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+Solapur Road,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Solapur Road,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Solapur Road,Suburban,Evening,Low,No,Yes,Outer,Low,Moderate
+Solapur Road,Suburban,Night,Low,No,Yes,Outer,Low,UnSafe
+Solapur Road,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+Ganesh Nagar,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Ganesh Nagar,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Ganesh Nagar,Suburban,Evening,Low,No,Yes,Outer,Low,Moderate
+Ganesh Nagar,Suburban,Night,Low,No,Yes,Outer,Low,UnSafe
+Ganesh Nagar,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+Bagalkot Cross,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Bagalkot Cross,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Bagalkot Cross,Suburban,Evening,Low,No,Yes,Outer,Low,Moderate
+Bagalkot Cross,Suburban,Night,Low,No,Yes,Outer,Low,Moderate
+Bagalkot Cross,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+Ashram Road,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Ashram Road,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Ashram Road,Suburban,Evening,Low,No,Yes,Outer,Low,Safe
+Ashram Road,Suburban,Night,Low,No,Yes,Outer,Low,Moderate
+Ashram Road,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+Sukoon Layout,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Sukoon Layout,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Sukoon Layout,Suburban,Evening,Low,No,Yes,Outer,Low,Moderate
+Sukoon Layout,Suburban,Night,Low,No,Yes,Outer,Low,UnSafe
+Sukoon Layout,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+Ganapathi Chowk,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Ganapathi Chowk,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Ganapathi Chowk,Suburban,Evening,Low,No,Yes,Outer,Low,Moderate
+Ganapathi Chowk,Suburban,Night,Low,No,Yes,Outer,Low,UnSafe
+Ganapathi Chowk,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+Water Tank,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Water Tank,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Water Tank,Suburban,Evening,Low,No,Yes,Outer,Low,Safe
+Water Tank,Suburban,Night,Low,No,Yes,Outer,Low,Moderate
+Water Tank,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+Sai Park,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Sai Park,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Sai Park,Suburban,Evening,Low,No,Yes,Outer,Low,Safe
+Sai Park,Suburban,Night,Low,No,Yes,Outer,Low,UnSafe
+Sai Park,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+B M Patil Road,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+B M Patil Road,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+B M Patil Road,Suburban,Evening,Low,No,Yes,Outer,Low,Moderate
+B M Patil Road,Suburban,Night,Low,No,Yes,Outer,Low,UnSafe
+B M Patil Road,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+Indi Road,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Indi Road,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Indi Road,Suburban,Evening,Low,No,Yes,Outer,Low,Moderate
+Indi Road,Suburban,Night,Low,No,Yes,Outer,Low,UnSafe
+Indi Road,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+Manguli Cross,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Manguli Cross,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Manguli Cross,Suburban,Evening,Low,No,Yes,Outer,Low,Moderate
+Manguli Cross,Suburban,Night,Low,No,Yes,Outer,Low,UnSafe
+Manguli Cross,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+Ibrahimpur,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+Ibrahimpur,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+Ibrahimpur,Suburban,Evening,Low,No,Yes,Outer,Low,Moderate
+Ibrahimpur,Suburban,Night,Low,No,Yes,Outer,Low,UnSafe
+Ibrahimpur,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
+court road,Suburban,Morning,Low,No,Yes,Outer,Low,Safe
+court road,Suburban,Afternoon,Low,No,Yes,Outer,Low,Safe
+court road,Suburban,Evening,Low,No,Yes,Outer,Low,Safe
+court road,Suburban,Night,Low,No,Yes,Outer,Low,UnSafe
+court road,Suburban,LateNight,Low,No,Yes,Outer,Low,UnSafe
